@@ -1,4 +1,4 @@
-# CS5691: Pattern Recognition and Machine-Learning
+# CS5691: Pattern Recognition and Machine Learning
 
 This repository contains work done as a part of the course taught by Prof. Harish Guruprasad at IIT Madras. It primarily contains the programming assignments completed as a part of the course.
 
